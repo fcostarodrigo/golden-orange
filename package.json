@@ -6,6 +6,8 @@
   "engines": {
     "vscode": "^1.67.0"
   },
+  "author": "Rodrigo Fernandes da Costa",
+  "license": "MIT",
   "repository": {
     "url": "https://github.com/fcostarodrigo/golden-orange",
     "type": "git"
