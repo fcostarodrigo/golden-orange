@@ -2,7 +2,7 @@
   "name": "golden-orange",
   "displayName": "Golden orange",
   "description": "VSCode Orange dark theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.67.0"
   },
